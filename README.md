@@ -1,3 +1,7 @@
+# Weekly task:
+The most important thing for students to understand with this tinker is that they should approach this unfamiliar code using AI as a support tool and not like a replacement for thinking. Many students will probably struggle with setting up their environment and running Streamlit for the first time. AI tools like Copilot were helpful for explaining what certain functions were doing and pointing out possible logic issues, such as why the search feature behaved unexpectedly. But AI can miss deeper problems if you don’t question its explanations or test its suggestions. I would guide a student without giving the answer is by encouraging them to focus on one function at a time and ask the AI to explain what each line is doing. I would also suggest that they test small changes and compare expected versus actual behavior so they can gradually build their understanding.
+
+
 # Playlist Chaos
 
 Your AI assistant tried to build a smart playlist generator. The app runs, but some of the behavior is unpredictable. Your task is to explore the app, investigate the code, and use an AI assistant to debug and improve it.
